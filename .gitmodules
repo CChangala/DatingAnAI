@@ -1,0 +1,6 @@
+[submodule "dating-ai-front-end"]
+	path = dating-ai-front-end
+	url = https://github.com/CChangala/dating-ai-front-end
+[submodule "dating-ai-backend"]
+	path = dating-ai-backend
+	url = https://github.com/CChangala/dating-ai-backend
