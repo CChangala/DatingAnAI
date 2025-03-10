@@ -1,6 +1,6 @@
 # AI Chatbot Application with Spring Boot
 
-This repository contains the AI Chatbot Application, a Spring Boot backend service that integrates OpenAI's Ollama Llama 3 model to power conversations with AI-generated profiles. The application allows a single user to match and have conversations with a few predefined AI-generated profiles, simulating a chat environment.
+This repository contains the AI Chatbot Application, a Frontend using React and  Spring Boot backend service that integrates OpenAI's Ollama Llama 3 model to power conversations with AI-generated profiles. The application allows a single user to match and have conversations with a few predefined AI-generated profiles, simulating a chat environment.
 
 ## Features
 
